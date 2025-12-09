@@ -1,0 +1,5 @@
+{
+  "name": "Career-path-recommender",
+  "description": "A comprehensive AI-powered career coaching application helping users with career path planning, resume critiques, and targeted revisions using Google Gemini models.",
+  "requestFramePermissions": []
+}
